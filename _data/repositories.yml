@@ -1,14 +1,16 @@
 github_users:
   - ernestojimenezruiz
-  - turing-knowledge-graphs
-  - city-knowledge-graphs
-  - NIVA-Knowledge-Graph  
 
 github_repos:
   - ernestojimenezruiz/logmap-matcher
   - KRR-Oxford/OWL2Vec-Star
-  - logmap-conservativity
-  - locality-module-extractor
+  - KRR-Oxford/OAEI-Bio-ML
+  - KRR-Oxford/OntoAlign
+  - NIVA-Knowledge-Graph/KGs_and_Effect_Prediction_2020
+  - NIVA-Knowledge-Graph/TERA 
+  - turing-knowledge-graphs/meet-ups
+  - ernestojimenezruiz/logmap-conservativity
+  - ernestojimenezruiz/locality-module-extractor
   - ernestojimenezruiz/dare-system
   - ernestojimenezruiz/tabular-data-semantics-py
   - ernestojimenezruiz/tabular-data-semantics

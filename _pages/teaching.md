@@ -1,12 +1,15 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching material
+description: 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I am leading the **Semantic Web Technologies and Knowledge Graphs (SWT&KG)** module delivered to both  UG and PG students at City, University of London.
 
-Organize your courses by years, topics, or universities, however you like!
+The module trains the new generation of data and computer scientists with the necessary skills in semantic technologies and knowledge representation to meet today’s demands from industry; where data scientists are expected to semantically orchestrate diverse types of data sources, and use both data-and-knowledge-driven AI techniques.
+
+- Public material: [https://github.com/turing-knowledge-graphs/teaching/tree/main/city](https://github.com/turing-knowledge-graphs/teaching/tree/main/city)
+- Student testimonial: [Data Science 2021/22](https://bit.ly/city-inm713-student-experience)
