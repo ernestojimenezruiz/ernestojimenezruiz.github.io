@@ -1,12 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ernestojimenezruiz
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - turing-knowledge-graphs/meet-ups
+  - turing-knowledge-graphs/teaching 
+  - ernestojimenezruiz/logmap-matcher
+  - KRR-Oxford/OWL2Vec-Star
+  - ernestojimenezruiz/dare-system
+  - ernestojimenezruiz/tabular-data-semantics-py
+  - ernestojimenezruiz/tabular-data-semantics
+  - ernestojimenezruiz/oaei-evaluation
