@@ -2,25 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Lecturer in AI at City, University of London
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href="https://www.city.ac.uk/about/find-contact/find" target="_blank">College Building, Northampton Square</a></p> 
+    <p>City, University of London</p>
+    <p><London EC1V 0HB, United Kingdom/p>
+
+
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+#latest_posts: true  # includes a list of the newest posts
+#selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Lecturer in Artificial Intelligence (AI) and Senior Tutor for Research at [City, University of London](https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz) affiliated to the [Adaptive Computer Systems and Machine Learning](https://www.city.ac.uk/research/centres/acsml) group. 
+I am also one of the chairs of the Alan Turing Institute Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I previously held a Senior Research Associate position at [The Alan Turing Institute](https://www.turing.ac.uk/people/researchers/ernesto-jimenez-ruiz) in London (UK), a Research Assistant position at the [University of Oxford](http://www.cs.ox.ac.uk/people/ernesto.jimenez-ruiz/) and a part-time research position in the [Centre for Scalable Data Access (SIRIUS)](https://sirius-labs.no/ernesto-jimenez-ruiz-researcher/) at the University of Oslo, Norway. My home university ([Universitat Jaume I, Castellon, Spain](https://www.uji.es/)) awarded a “Premio extraordinario de doctorado” (roughly translated as a [Extraordinary Doctoral Award](http://www.cs.ox.ac.uk/news/514-full.html)) to my doctoral thesis (Engineering category 2010-2011) for my reserach conducted within the [Temporal Knowledge
+Bases Group](https://krono.act.uji.es/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research, over the past 15 years, has covered several areas within AI. Currently, I focus on the intersection between Knowledge Representation (e.g., Knowledge Graphs) and Machine Learning with a special interest in creating more reliable and robust AI solutions. Knowledge graphs play a key role in AI and Data Science to enhance data-driven techniques with, among others, context and explainability.
+
