@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Research
 permalink: /projects/
-description: A selection of main projects and research lines.
+description: A selection of main research lines.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
