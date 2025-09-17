@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /projects/
 description: A selection of main research lines.
-nav: true
+nav: false
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
