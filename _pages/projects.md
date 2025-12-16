@@ -2,10 +2,10 @@
 layout: page
 title: Research
 permalink: /projects/
-description: A selection of main research lines.
+description: A selection of main research lines and projects.
 nav: true
 nav_order: 2
-display_categories: [project]
+display_categories: [projects]
 horizontal: false
 ---
 

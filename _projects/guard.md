@@ -4,7 +4,7 @@ title: GUARD Project
 description: Ensuring Interoperable and Trustworthy Knowledge Graphs for Defence and National Security AI
 img: assets/img/projects/alan-turing-institute-logo.png
 importance: 2
-category: project
+category: projects
 related_publications: DBLP:journals/corr/abs-2508-08500
 ---
 
@@ -16,9 +16,10 @@ Knowledge graphs (KGs) and ontologies are vital for trustworthy AI, but their ef
 
 Two key challenges must be addressed. The first challenge is interoperability and coverage. Existing ontologies and KGs relevant to defence model overlapping domains, but their interoperability remains limited, and greater integration with linked data resources is required to extend coverage across geolocations, organisations, diseases, and environmental hazards. The second challenge is quality. Although OWL, SHACL, and ShEx enable the detection of inconsistencies and definition of integrity constraints, their practical use is often limited by scalability issues, particularly when integrating large or multiple KGs.
 
+Team: [Ernesto Jimenez-Ruiz](https://ernestojimenezruiz.github.io/) (PI) and [Dave Herron](https://djherron.github.io/) (RA)
 
 Relevant resources:
 - KG Alignment using LLMs as Oracle: [https://github.com/city-artificial-intelligence/rai-ukraine-kga-llm](https://github.com/city-artificial-intelligence/rai-ukraine-kga-llm)
 - LogMap-LLM: [https://github.com/city-artificial-intelligence/logmap-llm](https://github.com/city-artificial-intelligence/logmap-llm)
 
-
+<br/>
