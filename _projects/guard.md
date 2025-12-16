@@ -8,15 +8,6 @@ category: project
 related_publications: DBLP:journals/corr/abs-2508-08500
 ---
 
-<!--
-related_publications: einstein1956investigations, einstein1950meaning, or false
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/meetups/eu-cerebra-ai.jpg" title=" GUARD Turing Project" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
--->
-
 ### GUARD: Ensuring Interoperable and Trustworthy Knowledge Graphs for Defence and National Security AI
 
 Project funded by [The Turing Defence and National Security Grand Challenge](https://www.turing.ac.uk/science-innovation/defence-and-national-security).
