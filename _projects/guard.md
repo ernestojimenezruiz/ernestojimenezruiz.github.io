@@ -18,8 +18,11 @@ Two key challenges must be addressed. The first challenge is interoperability an
 
 Team: [Ernesto Jimenez-Ruiz](https://ernestojimenezruiz.github.io/) (PI) and [Dave Herron](https://djherron.github.io/) (RA)
 
+Advisory board: [Catia Pequita](https://www.di.fc.ul.pt/~catiapesquita/) (University of Lisbon), [Paul Cripps](https://www.linkedin.com/in/pauljcripps/) (Dstl),
+
 Relevant resources:
-- KG Alignment using LLMs as Oracle: [https://github.com/city-artificial-intelligence/rai-ukraine-kga-llm](https://github.com/city-artificial-intelligence/rai-ukraine-kga-llm)
-- LogMap-LLM: [https://github.com/city-artificial-intelligence/logmap-llm](https://github.com/city-artificial-intelligence/logmap-llm)
+- Experiments with different LLMs (and prompts) as diagnostic tools (e.g., Oracles): [https://github.com/city-artificial-intelligence/rai-ukraine-kga-llm](https://github.com/city-artificial-intelligence/rai-ukraine-kga-llm)
+- LogMapLLM (integrated pipeline): [https://github.com/city-artificial-intelligence/logmap-llm](https://github.com/city-artificial-intelligence/logmap-llm)
+- LogMap Ontology Alignment System: [https://github.com/ernestojimenezruiz/logmap-matcher](https://github.com/ernestojimenezruiz/logmap-matcher)
 
 <br/>
