@@ -14,14 +14,21 @@ Knowledge graphs (KGs) and ontologies are vital for trustworthy AI, but their ef
 
 Two key challenges must be addressed. The first challenge is interoperability and coverage. Existing ontologies and KGs relevant to defence model overlapping domains, but their interoperability remains limited, and greater integration with linked data resources is required to extend coverage across geolocations, organisations, diseases, and environmental hazards. The second challenge is quality. Although OWL, SHACL, and ShEx enable the detection of inconsistencies and definition of integrity constraints, their practical use is often limited by scalability issues, particularly when integrating large or multiple KGs.
 
-Team: [Ernesto Jimenez-Ruiz](https://ernestojimenezruiz.github.io/) (PI), [Dave Herron](https://djherron.github.io/) (PDRA) and [Jonathon Dilworth](https://github.com/jonathondilworth) (RA)
+Team: [Ernesto Jimenez-Ruiz](https://ernestojimenezruiz.github.io/) (PI), [Dave Herron](https://djherron.github.io/) (PDRA) and [Jonathon Dilworth](https://github.com/jonathondilworth) (RA).
 
-Advisory board: [Catia Pequita](https://www.di.fc.ul.pt/~catiapesquita/) (University of Lisbon), [Paul Cripps](https://www.linkedin.com/in/pauljcripps/) (Dstl),
+Advisory board: [Catia Pequita](https://www.di.fc.ul.pt/~catiapesquita/) (University of Lisbon), [Paul Cripps](https://www.linkedin.com/in/pauljcripps/) (Dstl).
+
+Collaborators: [Sviatoslav Lushnei](https://www.linkedin.com/in/sviatoslav-lushnei-7a2722243/), [Dmytro Shumskyi](https://www.linkedin.com/in/dmytro-shumskyi-9489ab260/), [Severyn Shykula](https://www.linkedin.com/in/severyn-shykula-87a3aa23a/) and [Pedro Cotovio](https://pedrocotovio.github.io/)
 
 #### Relevant resources:
 - Experiments with different LLMs (and prompts) as diagnostic tools (e.g., Oracles): [https://github.com/city-artificial-intelligence/rai-ukraine-kga-llm](https://github.com/city-artificial-intelligence/rai-ukraine-kga-llm)
 - LogMapLLM (integrated pipeline): [https://github.com/city-artificial-intelligence/logmap-llm](https://github.com/city-artificial-intelligence/logmap-llm)
 - LogMap Ontology Alignment System: [https://github.com/ernestojimenezruiz/logmap-matcher](https://github.com/ernestojimenezruiz/logmap-matcher)
-- DISO: Defence, Intelligence and Security Ontologies: [https://github.com/djherron/diso](https://github.com/djherron/diso)
+- DISO: Defence, Intelligence and Security Ontologies: [https://github.com/city-artificial-intelligence/diso](https://github.com/city-artificial-intelligence/diso)
+- DISO OAEI track: [https://city-artificial-intelligence.github.io/diso-oaei/](https://city-artificial-intelligence.github.io/diso-oaei/)
+
+### Acknowledgements
+
+This research was supported by Turing Innovations Limited and The Alan Turing Institute's Defence and Security. Sviatoslav Lushnei, Dmytro Shumskyi, Severyn Shykula collaborated with the GUARD team thanks to the [RAI for Ukraine program](https://r-ai.co/ukraine) of the NYU Center for Responsible AI. 
 
 <br/>
