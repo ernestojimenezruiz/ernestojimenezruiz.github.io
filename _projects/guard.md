@@ -28,7 +28,20 @@ Advisory board: [Catia Pequita](https://www.di.fc.ul.pt/~catiapesquita/) (Univer
 Collaborators: [Sviatoslav Lushnei](https://www.linkedin.com/in/sviatoslav-lushnei-7a2722243/), [Dmytro Shumskyi](https://www.linkedin.com/in/dmytro-shumskyi-9489ab260/), [Severyn Shykula](https://www.linkedin.com/in/severyn-shykula-87a3aa23a/), and [Artur d'Avila Garcez](https://www.staff.city.ac.uk/~aag/).
 
 
-#### Relevant resources (Phase 1: interoperability and coverage):
+#### Outcomes Phase 1
+
+Phase 1 of the project has delivered (i) LogMapLLM, an open-source LLM-enhanced ontology alignment system built on top of LogMap, and (ii) DISO (Defence, Intelligence and Security Ontologies), 
+a comprehensive study of how (public) state-of-the-art ontologies in the defence and national security domain semantically overlap.
+LogMapLLM and its extensive evaluation have led to a publication in one of the main venues in the NLP community: EACL 2026, while DISO has been recently accepted to the International Semantic Web Conference 
+(ISWC 2026, Resources track).
+
+LogMapLLM contributions: (i) We have experimented with both commercial LLMs and open-weight models with zero-shot and few-shot prompts. (ii) We have investigated the effect of incorporating the ontology context 
+of the entities into prompt design, an aspect that has not been thoroughly examined in the ontology alignment literature. (iii) To our knowledge, while LLMs are increasingly applied in ontology alignment pipelines, their use as Oracles has been unexplored in the state-of-the-art. (iv) We have provided a comprehensive evaluation that offers novel insights into the use of LLMs as diagnostic engines for ontology alignment, including a transparent and fine-grained analysis of the LLM contribution. (v) The combination of LogMap with an LLM-based Oracle (LogMapLLM) achieved top-2 overall results in the OAEI 2025 bio-ml track
+
+DISO contributions: (i) We have collected and documented 60+ public ontologies relevant to the defence and national security domain. (ii) We have analysed their intersection by performing ontology alignment over 1,653 ontology pairs. (iii) We have designed a new OAEI track [4] including 8 matching tasks where we have compared the outcomes of several state-of-the-art alignment systems, created a consensus-based alignment, and manually verified a silver-standard reference alignment. 
+
+
+##### Relevant resources (Phase 1: interoperability and coverage):
 
 - Experiments with different LLMs (and prompts) as diagnostic tools (e.g., Oracles): [https://github.com/city-artificial-intelligence/rai-ukraine-kga-llm](https://github.com/city-artificial-intelligence/rai-ukraine-kga-llm)
 - LogMapLLM (integrated pipeline): [https://github.com/city-artificial-intelligence/logmap-llm](https://github.com/city-artificial-intelligence/logmap-llm)
@@ -36,7 +49,8 @@ Collaborators: [Sviatoslav Lushnei](https://www.linkedin.com/in/sviatoslav-lushn
 - DISO: Defence, Intelligence and Security Ontologies: [https://github.com/city-artificial-intelligence/diso](https://github.com/city-artificial-intelligence/diso)
 - DISO OAEI track: [https://city-artificial-intelligence.github.io/diso-oaei/](https://city-artificial-intelligence.github.io/diso-oaei/)
 
-### Acknowledgements
+
+#### Acknowledgements
 
 This research was supported by Turing Innovations Limited and The Alan Turing Institute's Defence and Security. Sviatoslav Lushnei, Dmytro Shumskyi, Severyn Shykula collaborated with the GUARD team thanks to the [RAI for Ukraine program](https://r-ai.co/ukraine) of the NYU Center for Responsible AI. 
 
