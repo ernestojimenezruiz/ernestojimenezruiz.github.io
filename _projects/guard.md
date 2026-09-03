@@ -19,11 +19,11 @@ reasoning for knowledge graph validation and the use of LLMs to provide (potenti
 
 #### The GUARD Team 
 
-Team: [Ernesto Jimenez-Ruiz](https://ernestojimenezruiz.github.io/) (PI), [Jonathon Dilworth](https://github.com/jonathondilworth) (RA), and [Pedro Cotovio](https://pedrocotovio.github.io/) (RA from October).
+Team: [Ernesto Jimenez-Ruiz](https://ernestojimenezruiz.github.io/) (PI), [Jonathon Dilworth](https://github.com/jonathondilworth) (RA), [Pedro Cotovio](https://pedrocotovio.github.io/) (RA from October), and [Valentina Carapella](https://scholar.google.com/citations?user=XSrMNw8AAAAJ&hl=en) (part-time SE from September).
 
 Previous members: [Dave Herron](https://djherron.github.io/) (PDRA).
 
-Advisory board: [Catia Pequita](https://www.di.fc.ul.pt/~catiapesquita/) (University of Lisbon), [Paul Cripps](https://www.linkedin.com/in/pauljcripps/) (Dstl).
+Advisory board: [Catia Pequita](https://www.di.fc.ul.pt/~catiapesquita/) (University of Lisbon), [Paul Cripps](https://www.linkedin.com/in/pauljcripps/) (Dstl), Nigel Dewdney (The Alan Turing Institute).
 
 Collaborators: [Sviatoslav Lushnei](https://www.linkedin.com/in/sviatoslav-lushnei-7a2722243/), [Dmytro Shumskyi](https://www.linkedin.com/in/dmytro-shumskyi-9489ab260/), [Severyn Shykula](https://www.linkedin.com/in/severyn-shykula-87a3aa23a/), and [Artur d'Avila Garcez](https://www.staff.city.ac.uk/~aag/).
 
