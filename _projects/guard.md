@@ -5,7 +5,7 @@ description: Ensuring Interoperable and Trustworthy Knowledge Graphs for Defence
 img: assets/img/projects/alan-turing-institute-logo.png
 importance: 2
 category: projects
-related_publications: logmapllm-eacl-2026, diso-iswc-2026, guard-report-phase1-2026
+related_publications: logmapllm-eacl-2026, diso-iswc-2026, guard-report-phase1-2026, logmal-llm-om-workshop-2026
 ---
 
 Project funded by [The Turing Defence and National Security Grand Challenge](https://www.turing.ac.uk/science-innovation/defence-and-national-security).
